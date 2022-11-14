@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "*"
+chatterbot = {path = "./ChatterBot"}
+google-api-python-client = "*"
+google-auth-httplib2 = "*"
+google-auth-oauthlib = "*"
+mathparse = "<0.2,>=0.1"
+python-dateutil = "<2.9,>=2.8"
+sqlalchemy = "<1.4,>=1.3"
+pytz = "*"
+chatterbot-corpus = "*"
+spacy = "<=2.3"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

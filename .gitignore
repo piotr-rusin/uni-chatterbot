@@ -1,0 +1,7 @@
+old.py
+.env
+.idea
+*.sqlite3
+*.jpg
+university*.json
+__pycache__
