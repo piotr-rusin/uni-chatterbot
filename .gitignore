@@ -5,3 +5,4 @@ old.py
 *.jpg
 university*.json
 __pycache__
+venv
